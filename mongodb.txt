@@ -1,3 +1,0 @@
-lCFPiU9WwT4fWRQD
-
-mongodb+srv://danishraina768_db_user:lCFPiU9WwT4fWRQD@cluster0.h8hbidd.mongodb.net/
